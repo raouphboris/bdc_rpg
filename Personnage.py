@@ -12,3 +12,5 @@ class Personnage:
         print(f"Nom:{self.nom}")
         print(f"classe:{self.classe}")
         print(f"Niveau:{self.niveau}")
+
+#stupide
